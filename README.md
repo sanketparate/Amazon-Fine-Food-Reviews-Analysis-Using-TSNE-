@@ -3,8 +3,8 @@
 <b>DataSource:</b>https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 Dataset is available in two forms:
-1.	.csv
-2.	SQLite Database
+1.	csv file
+2.	SQLite Database file
 
 We have taken Sqlite file with 5000 reviews and consider score >3 as positive rating and score <3 as negative reviews. Then we have done <b>Exploratory Data Analysis</b>
 <strong>i.</strong>	Data Cleaning
