@@ -18,9 +18,9 @@ Then I perform Featurization:<br>
 <strong>v.</strong>	Avg W2V<br>
 <strong>vi.</strong>	TFIDF Weighted W2v<br>
 
-Applied TSNE on Review text BOW vectors<br>
-Applied TSNE on Review text TFIDF vectors<br>
-Applied TSNE on Review text Avg W2v vectors<br>
-Applied TSNE on Review text TFIDF W2v vectors<br>
+<li>Applied TSNE on Review text BOW vectors</li><br>
+<li>Applied TSNE on Review text TFIDF vectors</li><br>
+<li>Applied TSNE on Review text Avg W2v vectors</li><br>
+<li>Applied TSNE on Review text TFIDF W2v vectors</li><br>
 
 TSNE is Applied to check that we can classify the positive and negative reviews to some extend. 
